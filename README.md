@@ -1,11 +1,13 @@
 **B.Tech CSE Core** student focused on learning how things work, solving problems, and turning ideas into working software.
 
-### `engineering`
+### `CURRENTLY`
 
-I enjoy the process as much as the result, understanding why something works, figuring out why it doesn't, finding the edge case nobody thought about, then making it work anyway.
+- Learning **Python, HTML, CSS & JavaScript**
+- Building strong programming fundamentals
+- Exploring software development
+- Turning ideas into projects and experiments
 
-I'm particularly interested in the details that are easy to overlook —
-because sometimes the smallest detail is the entire problem.
+
 
 <!--
 **3oajay/3oajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
