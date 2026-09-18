@@ -11,6 +11,8 @@
 
 `Python` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
 
+> **Creative enough to explore. Versatile enough to adapt. Detail-oriented enough to notice what's wrong.**
+
 
 
 <!--
