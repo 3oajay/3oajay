@@ -7,6 +7,10 @@
 - Exploring software development
 - Turning ideas into projects and experiments
 
+  ### `SKILLS`
+
+`Python` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+
 
 
 <!--
