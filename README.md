@@ -1,4 +1,4 @@
-**B.Tech CSE Core** student focused on learning how things work, solving problems, and turning ideas into working software.
+**B.Tech CSE** student focused on learning how things work, solving problems, and turning ideas into working software.
 
 ### `CURRENTLY`
 
