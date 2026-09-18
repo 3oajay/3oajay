@@ -1,4 +1,4 @@
-## Hi there 👋
+**B.Tech CSE Core** student focused on learning how things work, solving problems, and turning ideas into working software.
 
 <!--
 **3oajay/3oajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
